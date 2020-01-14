@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2.ExtendedDatabase", "..\..\..\..\source\repos\DATIEBAMAIKATA\DATIEBAMAIKATA\Problem2.ExtendedDatabase.csproj", "{482FAF7F-F7BC-4443-96A1-E3AFF680C0C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2.ExtendedDatabase.Tests", "..\..\..\..\source\repos\DATIEBAMAIKATA\Problem2.ExtendedDatabase.Tests\Problem2.ExtendedDatabase.Tests.csproj", "{3F66D59B-57C0-4673-92F1-1A755ADB69DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{482FAF7F-F7BC-4443-96A1-E3AFF680C0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482FAF7F-F7BC-4443-96A1-E3AFF680C0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482FAF7F-F7BC-4443-96A1-E3AFF680C0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482FAF7F-F7BC-4443-96A1-E3AFF680C0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F66D59B-57C0-4673-92F1-1A755ADB69DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F66D59B-57C0-4673-92F1-1A755ADB69DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F66D59B-57C0-4673-92F1-1A755ADB69DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F66D59B-57C0-4673-92F1-1A755ADB69DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E640C46-49C6-4D73-B552-CD6FC20A496E}
+	EndGlobalSection
+EndGlobal
